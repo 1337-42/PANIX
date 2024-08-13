@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/92536790-efb0-44c0-8d53-fc8b0d1e8683" alt="PANIX logo"width="1010" height="750"> 
   <h1 align="center"><a href="https://github.com/Aegrah/PANIX/">PANIX - Persistence Against *NIX</a></h1>
-</p>
+</p> 
 
 ![](https://i.imgur.com/waxVImv.png)
 
